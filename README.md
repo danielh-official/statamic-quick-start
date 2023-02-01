@@ -1,0 +1,2 @@
+# statamic practice
+ Pracitcing statamic.
